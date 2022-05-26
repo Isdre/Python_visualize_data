@@ -1,0 +1,96 @@
+Name,Type,Total,Total Attack,Total Defense,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+Bulbasaur,Grass,318,159,159,45,49,49,65,65,45,1,False
+Ivysaur,Grass,405,202,203,60,62,63,80,80,60,1,False
+Venusaur,Grass,525,262,263,80,82,83,100,100,80,1,False
+VenusaurMega Venusaur,Grass,625,302,323,80,100,123,122,120,80,1,False
+Oddish,Grass,320,155,165,45,50,55,75,65,30,1,False
+Gloom,Grass,395,190,205,60,65,70,85,75,40,1,False
+Vileplume,Grass,490,240,250,75,80,85,110,90,50,1,False
+Bellsprout,Grass,300,185,115,50,75,35,70,30,40,1,False
+Weepinbell,Grass,390,230,160,65,90,50,85,45,55,1,False
+Victreebel,Grass,490,275,215,80,105,65,100,70,70,1,False
+Exeggcute,Grass,325,140,185,60,40,80,60,45,40,1,False
+Exeggutor,Grass,520,275,245,95,95,85,125,65,55,1,False
+Tangela,Grass,435,215,220,65,55,115,100,40,60,1,False
+Chikorita,Grass,318,143,175,45,49,65,49,65,45,2,False
+Bayleef,Grass,405,185,220,60,62,80,63,80,60,2,False
+Meganium,Grass,525,245,280,80,82,100,83,100,80,2,False
+Bellossom,Grass,490,220,270,75,80,95,90,100,50,2,False
+Hoppip,Grass,250,120,130,35,35,40,35,55,50,2,False
+Skiploom,Grass,340,170,170,55,45,50,45,65,80,2,False
+Jumpluff,Grass,460,220,240,75,55,70,55,95,110,2,False
+Sunkern,Grass,180,90,90,30,30,30,30,30,30,2,False
+Sunflora,Grass,425,210,215,75,75,55,105,85,30,2,False
+Treecko,Grass,310,180,130,40,45,35,65,55,70,3,False
+Grovyle,Grass,405,245,160,50,65,45,85,65,95,3,False
+Sceptile,Grass,530,310,220,70,85,65,105,85,120,3,False
+SceptileMega Sceptile,Grass,630,400,230,70,110,75,145,85,145,3,False
+Seedot,Grass,220,100,120,40,40,50,30,30,30,3,False
+Nuzleaf,Grass,340,190,150,70,70,40,60,40,60,3,False
+Shiftry,Grass,480,270,210,90,100,60,90,60,80,3,False
+Shroomish,Grass,295,115,180,60,40,60,40,60,35,3,False
+Breloom,Grass,460,260,200,60,130,80,60,60,70,3,False
+Roselia,Grass,400,225,175,50,60,45,100,80,65,3,False
+Cacnea,Grass,335,205,130,50,85,40,85,40,35,3,False
+Cacturne,Grass,475,285,190,70,115,60,115,60,55,3,False
+Tropius,Grass,460,191,269,99,68,83,72,87,51,3,False
+Turtwig,Grass,318,144,174,55,68,64,45,55,31,4,False
+Grotle,Grass,405,180,225,75,89,85,55,65,36,4,False
+Torterra,Grass,525,240,285,95,109,105,75,85,56,4,False
+Budew,Grass,280,135,145,40,30,35,50,70,55,4,False
+Roserade,Grass,515,285,230,60,70,65,125,105,90,4,False
+Cherubi,Grass,275,132,143,45,35,45,62,53,35,4,False
+Cherrim,Grass,450,232,218,70,60,70,87,78,85,4,False
+Carnivine,Grass,454,236,218,74,100,72,90,72,46,4,False
+Snover,Grass,334,164,170,60,62,50,62,60,40,4,False
+Abomasnow,Grass,494,244,250,90,92,75,92,85,60,4,False
+AbomasnowMega Abomasnow,Grass,594,294,300,90,132,105,132,105,30,4,False
+Tangrowth,Grass,535,260,275,100,100,125,110,50,50,4,False
+Leafeon,Grass,525,265,260,65,110,130,60,65,95,4,False
+ShayminLand Forme,Grass,600,300,300,100,100,100,100,100,100,4,True
+ShayminSky Forme,Grass,600,350,250,100,103,75,120,75,127,4,True
+Snivy,Grass,308,153,155,45,45,55,45,55,63,5,False
+Servine,Grass,413,203,210,60,60,75,60,75,83,5,False
+Serperior,Grass,528,263,265,75,75,95,75,95,113,5,False
+Pansage,Grass,316,170,146,50,53,48,53,48,64,5,False
+Simisage,Grass,498,297,201,75,98,63,98,63,101,5,False
+Cottonee,Grass,280,130,150,40,27,60,37,50,66,5,False
+Whimsicott,Grass,480,260,220,60,67,85,77,75,116,5,False
+Petilil,Grass,280,135,145,45,35,50,70,50,30,5,False
+Lilligant,Grass,480,260,220,70,60,75,110,75,90,5,False
+Maractus,Grass,461,252,209,75,86,67,106,67,60,5,False
+Foongus,Grass,294,125,169,69,55,45,55,55,15,5,False
+Amoonguss,Grass,464,200,264,114,85,70,85,80,30,5,False
+Ferroseed,Grass,305,84,221,44,50,91,24,86,10,5,False
+Ferrothorn,Grass,489,168,321,74,94,131,54,116,20,5,False
+Virizion,Grass,580,288,292,91,90,72,90,129,108,5,True
+Chespin,Grass,313,147,166,56,61,65,48,45,38,6,False
+Quilladin,Grass,405,191,214,61,78,95,56,58,57,6,False
+Chesnaught,Grass,530,245,285,88,107,122,74,75,64,6,False
+Skiddo,Grass,350,179,171,66,65,48,62,57,52,6,False
+Gogoat,Grass,531,265,266,123,100,62,97,81,68,6,False
+Paras,Grass,285,140,145,35,70,55,45,55,25,1,False
+Parasect,Grass,405,185,220,60,95,80,60,80,30,1,False
+Celebi,Grass,600,300,300,100,100,100,100,100,100,2,False
+Lotad,Grass,220,100,120,40,30,30,40,50,30,3,False
+Lombre,Grass,340,160,180,60,50,50,60,70,50,3,False
+Ludicolo,Grass,480,230,250,80,70,70,90,100,70,3,False
+Lileep,Grass,355,125,230,66,41,77,61,87,23,3,False
+Cradily,Grass,495,205,290,86,81,97,81,107,43,3,False
+WormadamPlant Cloak,Grass,424,174,250,60,59,85,79,105,36,4,False
+RotomMow Rotom,Grass,520,256,264,50,65,107,105,107,86,4,False
+Sewaddle,Grass,310,135,175,45,53,70,40,60,42,5,False
+Swadloon,Grass,380,155,225,55,63,90,50,80,42,5,False
+Leavanny,Grass,500,265,235,75,103,80,70,80,92,5,False
+Deerling,Grass,335,175,160,60,60,50,40,50,75,5,False
+Sawsbuck,Grass,475,255,220,80,100,70,60,70,95,5,False
+Phantump,Grass,309,158,151,43,70,48,50,60,38,6,False
+Trevenant,Grass,474,231,243,85,110,76,65,82,56,6,False
+PumpkabooAverage Size,Grass,335,161,174,49,66,70,44,55,51,6,False
+PumpkabooSmall Size,Grass,335,166,169,44,66,70,44,55,56,6,False
+PumpkabooLarge Size,Grass,335,156,179,54,66,70,44,55,46,6,False
+PumpkabooSuper Size,Grass,335,151,184,59,66,70,44,55,41,6,False
+GourgeistAverage Size,Grass,494,232,262,65,90,122,58,75,84,6,False
+GourgeistSmall Size,Grass,494,242,252,55,85,122,58,75,99,6,False
+GourgeistLarge Size,Grass,494,222,272,75,95,122,58,75,69,6,False
+GourgeistSuper Size,Grass,494,212,282,85,100,122,58,75,54,6,False

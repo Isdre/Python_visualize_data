@@ -1,0 +1,52 @@
+Name,Type,Total,Total Attack,Total Defense,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+Umbreon,Dark,525,190,335,95,65,110,60,130,65,2,False
+Murkrow,Dark,405,261,144,60,85,42,85,42,91,2,False
+Sneasel,Dark,430,245,185,55,95,55,35,75,115,2,False
+Houndour,Dark,330,205,125,45,60,30,80,50,65,2,False
+Houndoom,Dark,500,295,205,75,90,50,110,80,95,2,False
+HoundoomMega Houndoom,Dark,600,345,255,75,90,90,140,90,115,2,False
+Poochyena,Dark,220,120,100,35,55,35,30,30,35,3,False
+Mightyena,Dark,420,220,200,70,90,70,60,60,70,3,False
+Sableye,Dark,380,190,190,50,75,75,65,65,50,3,False
+SableyeMega Sableye,Dark,480,190,290,50,85,125,85,115,20,3,False
+Absol,Dark,465,280,185,65,130,60,75,60,75,3,False
+AbsolMega Absol,Dark,565,380,185,65,150,60,115,60,115,3,False
+Honchkrow,Dark,505,301,204,100,125,52,105,52,71,4,False
+Weavile,Dark,510,290,220,70,120,65,45,85,125,4,False
+Darkrai,Dark,600,350,250,70,90,90,135,90,125,4,True
+Purrloin,Dark,281,166,115,41,50,37,50,37,66,5,False
+Liepard,Dark,446,282,164,64,88,50,88,50,106,5,False
+Scraggy,Dark,348,158,190,50,75,70,35,70,48,5,False
+Scrafty,Dark,488,193,295,65,90,115,45,115,58,5,False
+Zorua,Dark,330,210,120,40,65,40,80,40,65,5,False
+Zoroark,Dark,510,330,180,60,105,60,120,60,105,5,False
+Pawniard,Dark,340,185,155,45,85,70,40,40,60,5,False
+Bisharp,Dark,490,255,235,65,125,100,60,70,70,5,False
+Vullaby,Dark,370,160,210,70,55,75,45,65,60,5,False
+Mandibuzz,Dark,510,200,310,110,65,105,55,95,80,5,False
+Deino,Dark,300,148,152,52,65,50,45,50,38,5,False
+Zweilous,Dark,420,208,212,72,85,70,65,70,58,5,False
+Hydreigon,Dark,600,328,272,92,105,90,125,90,98,5,False
+Inkay,Dark,288,136,152,53,54,53,37,46,45,6,False
+Malamar,Dark,482,233,249,86,92,88,68,75,73,6,False
+Yveltal,Dark,680,361,319,126,131,95,131,98,99,6,True
+GyaradosMega Gyarados,Dark,640,306,334,95,155,109,70,130,81,1,False
+Tyranitar,Dark,600,290,310,100,134,110,95,100,61,2,False
+TyranitarMega Tyranitar,Dark,700,330,370,100,164,150,95,120,71,2,False
+Nuzleaf,Dark,340,190,150,70,70,40,60,40,60,3,False
+Shiftry,Dark,480,270,210,90,100,60,90,60,80,3,False
+Carvanha,Dark,305,220,85,45,90,20,65,20,65,3,False
+Sharpedo,Dark,460,310,150,70,120,40,95,40,95,3,False
+SharpedoMega Sharpedo,Dark,560,355,205,70,140,70,110,65,105,3,False
+Cacturne,Dark,475,285,190,70,115,60,115,60,55,3,False
+Crawdaunt,Dark,468,265,203,63,120,85,90,55,55,3,False
+Stunky,Dark,329,178,151,63,63,47,41,41,74,4,False
+Skuntank,Dark,479,248,231,103,93,67,71,61,84,4,False
+Spiritomb,Dark,485,219,266,50,92,108,92,108,35,4,False
+Drapion,Dark,500,245,255,70,90,110,60,75,95,4,False
+Sandile,Dark,292,172,120,50,72,35,35,35,65,5,False
+Krokorok,Dark,351,201,150,60,82,45,45,45,74,5,False
+Krookodile,Dark,519,274,245,95,117,80,65,70,92,5,False
+Greninja,Dark,530,320,210,72,95,67,103,71,122,6,False
+Pangoro,Dark,495,251,244,95,124,78,69,71,58,6,False
+HoopaHoopa Unbound,Dark,680,410,270,80,160,60,170,130,80,6,True

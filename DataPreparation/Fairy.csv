@@ -1,0 +1,41 @@
+Name,Type,Total,Total Attack,Total Defense,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+Clefairy,Fairy,323,140,183,70,45,48,60,65,35,1,False
+Clefable,Fairy,483,225,258,95,70,73,95,90,60,1,False
+Cleffa,Fairy,218,85,133,50,25,28,45,55,15,2,False
+Togepi,Fairy,245,80,165,35,20,65,40,65,20,2,False
+Togetic,Fairy,405,160,245,55,40,85,80,105,40,2,False
+Snubbull,Fairy,300,150,150,60,80,50,40,40,30,2,False
+Granbull,Fairy,450,225,225,90,120,75,60,60,45,2,False
+Togekiss,Fairy,545,250,295,85,50,95,120,115,80,4,False
+Flabébé,Fairy,303,141,162,44,38,39,61,79,42,6,False
+Floette,Fairy,371,172,199,54,45,47,75,98,52,6,False
+Florges,Fairy,552,252,300,78,65,68,112,154,75,6,False
+Spritzee,Fairy,341,138,203,78,52,60,63,65,23,6,False
+Aromatisse,Fairy,462,200,262,101,72,72,99,89,29,6,False
+Swirlix,Fairy,341,156,185,62,48,66,59,57,49,6,False
+Slurpuff,Fairy,480,237,243,82,80,86,85,75,72,6,False
+Sylveon,Fairy,525,235,290,95,65,65,110,130,60,6,False
+Xerneas,Fairy,680,361,319,126,131,95,131,98,99,6,True
+Jigglypuff,Fairy,270,110,160,115,45,20,45,25,20,1,False
+Wigglytuff,Fairy,435,200,235,140,70,45,85,50,45,1,False
+Mr. Mime,Fairy,460,235,225,40,45,65,100,120,90,1,False
+Igglybuff,Fairy,210,85,125,90,30,15,40,20,15,2,False
+Marill,Fairy,250,80,170,70,20,50,20,50,40,2,False
+Azumarill,Fairy,420,160,260,100,50,80,60,80,50,2,False
+Ralts,Fairy,198,110,88,28,25,25,45,35,40,3,False
+Kirlia,Fairy,278,150,128,38,35,35,65,55,50,3,False
+Gardevoir,Fairy,518,270,248,68,65,65,125,115,80,3,False
+GardevoirMega Gardevoir,Fairy,618,350,268,68,85,65,165,135,100,3,False
+Azurill,Fairy,190,60,130,50,20,40,20,40,20,3,False
+Mawile,Fairy,380,190,190,50,85,85,55,55,50,3,False
+MawileMega Mawile,Fairy,480,210,270,50,105,125,55,95,50,3,False
+AltariaMega Altaria,Fairy,590,300,290,75,110,110,110,105,80,3,False
+Mime Jr.,Fairy,310,155,155,20,25,45,70,90,60,4,False
+AudinoMega Audino,Fairy,545,190,355,103,60,126,80,126,50,5,False
+Cottonee,Fairy,280,130,150,40,27,60,37,50,66,5,False
+Whimsicott,Fairy,480,260,220,60,67,85,77,75,116,5,False
+Dedenne,Fairy,431,240,191,67,58,57,81,67,101,6,False
+Carbink,Fairy,500,150,350,50,50,150,50,150,50,6,False
+Klefki,Fairy,470,235,235,57,80,91,80,87,75,6,False
+Diancie,Fairy,600,250,350,50,100,150,100,150,50,6,True
+DiancieMega Diancie,Fairy,700,430,270,50,160,110,160,110,110,6,True

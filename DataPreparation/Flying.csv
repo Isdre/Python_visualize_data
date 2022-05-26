@@ -1,0 +1,102 @@
+Name,Type,Total,Total Attack,Total Defense,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+TornadusIncarnate Forme,Flying,580,351,229,79,115,70,125,80,111,5,True
+TornadusTherian Forme,Flying,580,331,249,79,100,80,110,90,121,5,True
+Noibat,Flying,245,130,115,40,30,35,45,40,55,6,False
+Noivern,Flying,535,290,245,85,70,80,97,80,123,6,False
+Charizard,Flying,534,293,241,78,84,78,109,85,100,1,False
+CharizardMega Charizard Y,Flying,634,363,271,78,104,78,159,115,100,1,False
+Butterfree,Flying,395,205,190,60,45,50,90,80,70,1,False
+Pidgey,Flying,251,136,115,40,45,40,35,35,56,1,False
+Pidgeotto,Flying,349,181,168,63,60,55,50,50,71,1,False
+Pidgeot,Flying,479,251,228,83,80,75,70,70,101,1,False
+PidgeotMega Pidgeot,Flying,579,336,243,83,80,80,135,80,121,1,False
+Spearow,Flying,262,161,101,40,60,30,31,31,70,1,False
+Fearow,Flying,442,251,191,65,90,65,61,61,100,1,False
+Zubat,Flying,245,130,115,40,45,35,30,40,55,1,False
+Golbat,Flying,455,235,220,75,80,70,65,75,90,1,False
+Farfetch'd,Flying,352,183,169,52,65,55,58,62,60,1,False
+Doduo,Flying,310,195,115,35,85,45,35,35,75,1,False
+Dodrio,Flying,460,270,190,60,110,70,60,60,100,1,False
+Scyther,Flying,500,270,230,70,110,80,55,80,105,1,False
+PinsirMega Pinsir,Flying,600,325,275,65,155,120,65,90,105,1,False
+Gyarados,Flying,540,266,274,95,125,79,60,100,81,1,False
+Aerodactyl,Flying,515,295,220,80,105,65,60,75,130,1,False
+AerodactylMega Aerodactyl,Flying,615,355,260,80,135,85,70,95,150,1,False
+Articuno,Flying,580,265,315,90,85,100,95,125,85,1,True
+Zapdos,Flying,580,315,265,90,90,85,125,90,100,1,True
+Moltres,Flying,580,315,265,90,100,90,125,85,90,1,True
+Dragonite,Flying,600,314,286,91,134,95,100,100,80,1,False
+Hoothoot,Flying,262,116,146,60,30,30,36,56,50,2,False
+Noctowl,Flying,442,196,246,100,50,50,76,96,70,2,False
+Ledyba,Flying,265,115,150,40,20,30,40,80,55,2,False
+Ledian,Flying,390,175,215,55,35,50,55,110,85,2,False
+Crobat,Flying,535,290,245,85,90,80,70,80,130,2,False
+Togetic,Flying,405,160,245,55,40,85,80,105,40,2,False
+Natu,Flying,320,190,130,40,50,45,70,45,70,2,False
+Xatu,Flying,470,265,205,65,75,70,95,70,95,2,False
+Hoppip,Flying,250,120,130,35,35,40,35,55,50,2,False
+Skiploom,Flying,340,170,170,55,45,50,45,65,80,2,False
+Jumpluff,Flying,460,220,240,75,55,70,55,95,110,2,False
+Yanma,Flying,390,235,155,65,65,45,75,45,95,2,False
+Murkrow,Flying,405,261,144,60,85,42,85,42,91,2,False
+Gligar,Flying,430,195,235,65,75,105,35,65,85,2,False
+Delibird,Flying,330,195,135,45,55,45,65,45,75,2,False
+Mantine,Flying,465,190,275,65,40,70,80,140,70,2,False
+Skarmory,Flying,465,190,275,65,80,140,40,70,70,2,False
+Lugia,Flying,680,290,390,106,90,130,90,154,110,2,True
+Ho-oh,Flying,680,330,350,106,130,90,110,154,90,2,True
+Beautifly,Flying,395,235,160,60,70,50,100,50,65,3,False
+Taillow,Flying,270,170,100,40,55,30,30,30,85,3,False
+Swellow,Flying,430,260,170,60,85,60,50,50,125,3,False
+Wingull,Flying,270,170,100,40,30,30,55,30,85,3,False
+Pelipper,Flying,430,200,230,60,50,100,85,70,65,3,False
+Masquerain,Flying,414,200,214,70,60,62,80,82,60,3,False
+Ninjask,Flying,456,300,156,61,90,45,50,50,160,3,False
+Swablu,Flying,310,130,180,45,40,60,40,75,50,3,False
+Altaria,Flying,490,220,270,75,70,90,70,105,80,3,False
+Tropius,Flying,460,191,269,99,68,83,72,87,51,3,False
+Salamence,Flying,600,345,255,95,135,80,110,80,100,3,False
+SalamenceMega Salamence,Flying,700,385,315,95,145,130,120,90,120,3,False
+Rayquaza,Flying,680,395,285,105,150,90,150,90,95,3,True
+RayquazaMega Rayquaza,Flying,780,475,305,105,180,100,180,100,115,3,True
+Starly,Flying,245,145,100,40,55,30,30,30,60,4,False
+Staravia,Flying,340,195,145,55,75,50,40,40,80,4,False
+Staraptor,Flying,485,270,215,85,120,70,50,60,100,4,False
+Mothim,Flying,424,254,170,70,94,50,94,50,66,4,False
+Combee,Flying,244,130,114,30,30,42,30,42,70,4,False
+Vespiquen,Flying,474,200,274,70,80,102,80,102,40,4,False
+Drifloon,Flying,348,180,168,90,50,34,60,44,70,4,False
+Drifblim,Flying,498,250,248,150,80,44,90,54,80,4,False
+Honchkrow,Flying,505,301,204,100,125,52,105,52,71,4,False
+Chatot,Flying,411,248,163,76,65,45,92,42,91,4,False
+Mantyke,Flying,345,130,215,45,20,50,60,120,50,4,False
+Togekiss,Flying,545,250,295,85,50,95,120,115,80,4,False
+Yanmega,Flying,515,287,228,86,76,86,116,56,95,4,False
+Gliscor,Flying,510,235,275,75,95,125,45,75,95,4,False
+RotomFan Rotom,Flying,520,256,264,50,65,107,105,107,86,4,False
+ShayminSky Forme,Flying,600,350,250,100,103,75,120,75,127,4,True
+Pidove,Flying,264,134,130,50,55,50,36,30,43,5,False
+Tranquill,Flying,358,192,166,62,77,62,50,42,65,5,False
+Unfezant,Flying,488,273,215,80,115,80,65,55,93,5,False
+Woobat,Flying,313,172,141,55,45,43,55,43,72,5,False
+Swoobat,Flying,425,248,177,67,57,55,77,55,114,5,False
+Sigilyph,Flying,490,258,232,72,58,80,103,80,97,5,False
+Archen,Flying,401,256,145,55,112,45,74,45,70,5,False
+Archeops,Flying,567,362,205,75,140,65,112,65,110,5,False
+Ducklett,Flying,305,143,162,62,44,50,44,50,55,5,False
+Swanna,Flying,473,272,201,75,87,63,87,63,98,5,False
+Emolga,Flying,428,253,175,55,75,60,75,60,103,5,False
+Rufflet,Flying,350,180,170,70,83,50,37,50,60,5,False
+Braviary,Flying,510,260,250,100,123,75,57,75,80,5,False
+Vullaby,Flying,370,160,210,70,55,75,45,65,60,5,False
+Mandibuzz,Flying,510,200,310,110,65,105,55,95,80,5,False
+ThundurusIncarnate Forme,Flying,580,351,229,79,115,70,125,80,111,5,True
+ThundurusTherian Forme,Flying,580,351,229,79,105,70,145,80,101,5,True
+LandorusIncarnate Forme,Flying,600,341,259,89,125,90,115,80,101,5,True
+LandorusTherian Forme,Flying,600,341,259,89,145,90,105,80,91,5,True
+Fletchling,Flying,278,152,126,45,50,43,40,38,62,6,False
+Fletchinder,Flying,382,213,169,62,73,55,56,52,84,6,False
+Talonflame,Flying,499,281,218,78,81,71,74,69,126,6,False
+Vivillon,Flying,411,231,180,80,52,50,90,50,89,6,False
+Hawlucha,Flying,500,284,216,78,92,75,74,63,118,6,False
+Yveltal,Flying,680,361,319,126,131,95,131,98,99,6,True

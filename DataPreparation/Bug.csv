@@ -1,0 +1,73 @@
+Name,Type,Total,Total Attack,Total Defense,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+Caterpie,Bug,195,95,100,45,30,35,20,20,45,1,False
+Metapod,Bug,205,75,130,50,20,55,25,25,30,1,False
+Butterfree,Bug,395,205,190,60,45,50,90,80,70,1,False
+Weedle,Bug,195,105,90,40,35,30,20,20,50,1,False
+Kakuna,Bug,205,85,120,45,25,50,25,25,35,1,False
+Beedrill,Bug,395,210,185,65,90,40,45,80,75,1,False
+BeedrillMega Beedrill,Bug,495,310,185,65,150,40,15,80,145,1,False
+Paras,Bug,285,140,145,35,70,55,45,55,25,1,False
+Parasect,Bug,405,185,220,60,95,80,60,80,30,1,False
+Venonat,Bug,305,140,165,60,55,50,40,55,45,1,False
+Venomoth,Bug,450,245,205,70,65,60,90,75,90,1,False
+Scyther,Bug,500,270,230,70,110,80,55,80,105,1,False
+Pinsir,Bug,500,265,235,65,125,100,55,70,85,1,False
+PinsirMega Pinsir,Bug,600,325,275,65,155,120,65,90,105,1,False
+Ledyba,Bug,265,115,150,40,20,30,40,80,55,2,False
+Ledian,Bug,390,175,215,55,35,50,55,110,85,2,False
+Spinarak,Bug,250,130,120,40,60,40,40,40,30,2,False
+Ariados,Bug,390,190,200,70,90,70,60,60,40,2,False
+Yanma,Bug,390,235,155,65,65,45,75,45,95,2,False
+Pineco,Bug,290,115,175,50,65,90,35,35,15,2,False
+Forretress,Bug,465,190,275,75,90,140,60,60,40,2,False
+Scizor,Bug,500,250,250,70,130,100,55,80,65,2,False
+ScizorMega Scizor,Bug,600,290,310,70,150,140,65,100,75,2,False
+Shuckle,Bug,505,25,480,20,10,230,10,230,5,2,False
+Heracross,Bug,500,250,250,80,125,75,40,95,85,2,False
+HeracrossMega Heracross,Bug,600,300,300,80,185,115,40,105,75,2,False
+Wurmple,Bug,195,85,110,45,45,35,20,30,20,3,False
+Silcoon,Bug,205,75,130,50,35,55,25,25,15,3,False
+Beautifly,Bug,395,235,160,60,70,50,100,50,65,3,False
+Cascoon,Bug,205,75,130,50,35,55,25,25,15,3,False
+Dustox,Bug,385,165,220,60,50,70,50,90,65,3,False
+Surskit,Bug,269,145,124,40,30,32,50,52,65,3,False
+Masquerain,Bug,414,200,214,70,60,62,80,82,60,3,False
+Nincada,Bug,266,115,151,31,45,90,30,30,40,3,False
+Ninjask,Bug,456,300,156,61,90,45,50,50,160,3,False
+Shedinja,Bug,236,160,76,1,90,45,30,30,40,3,False
+Volbeat,Bug,400,205,195,65,73,55,47,75,85,3,False
+Illumise,Bug,400,205,195,65,47,55,73,75,85,3,False
+Kricketot,Bug,194,75,119,37,25,41,25,41,25,4,False
+Kricketune,Bug,384,205,179,77,85,51,55,51,65,4,False
+Burmy,Bug,224,94,130,40,29,45,29,45,36,4,False
+WormadamPlant Cloak,Bug,424,174,250,60,59,85,79,105,36,4,False
+WormadamSandy Cloak,Bug,424,174,250,60,79,105,59,85,36,4,False
+WormadamTrash Cloak,Bug,424,174,250,60,69,95,69,95,36,4,False
+Mothim,Bug,424,254,170,70,94,50,94,50,66,4,False
+Combee,Bug,244,130,114,30,30,42,30,42,70,4,False
+Vespiquen,Bug,474,200,274,70,80,102,80,102,40,4,False
+Yanmega,Bug,515,287,228,86,76,86,116,56,95,4,False
+Sewaddle,Bug,310,135,175,45,53,70,40,60,42,5,False
+Swadloon,Bug,380,155,225,55,63,90,50,80,42,5,False
+Leavanny,Bug,500,265,235,75,103,80,70,80,92,5,False
+Venipede,Bug,260,132,128,30,45,59,30,39,57,5,False
+Whirlipede,Bug,360,142,218,40,55,99,40,79,47,5,False
+Scolipede,Bug,485,267,218,60,100,89,55,69,112,5,False
+Dwebble,Bug,325,155,170,50,65,85,35,35,55,5,False
+Crustle,Bug,475,205,270,70,95,125,65,75,45,5,False
+Karrablast,Bug,315,175,140,50,75,45,40,45,60,5,False
+Escavalier,Bug,495,215,280,70,135,105,60,105,20,5,False
+Joltik,Bug,319,169,150,50,47,50,57,50,65,5,False
+Galvantula,Bug,472,282,190,70,77,60,97,60,108,5,False
+Shelmet,Bug,305,105,200,50,40,85,40,65,25,5,False
+Accelgor,Bug,495,315,180,80,70,40,100,60,145,5,False
+Durant,Bug,484,266,218,58,109,112,48,48,109,5,False
+Larvesta,Bug,360,195,165,55,85,55,50,55,60,5,False
+Volcarona,Bug,550,295,255,85,60,65,135,105,100,5,False
+Genesect,Bug,600,339,261,71,120,95,120,95,99,5,False
+Scatterbug,Bug,200,97,103,38,35,40,27,25,35,6,False
+Spewpa,Bug,213,78,135,45,22,60,27,30,29,6,False
+Vivillon,Bug,411,231,180,80,52,50,90,50,89,6,False
+Anorith,Bug,355,210,145,45,95,50,40,50,75,3,False
+Armaldo,Bug,495,240,255,75,125,100,70,80,45,3,False
+Skorupi,Bug,330,145,185,40,50,90,30,55,65,4,False
