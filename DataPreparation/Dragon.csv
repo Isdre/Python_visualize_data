@@ -1,51 +1,51 @@
-Name,Type,Total,Total Attack,Total Defense,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
-Dratini,Dragon,300,164,136,41,64,45,50,50,50,1,False
-Dragonair,Dragon,420,224,196,61,84,65,70,70,70,1,False
-Dragonite,Dragon,600,314,286,91,134,95,100,100,80,1,False
-Altaria,Dragon,490,220,270,75,70,90,70,105,80,3,False
-AltariaMega Altaria,Dragon,590,300,290,75,110,110,110,105,80,3,False
-Bagon,Dragon,300,165,135,45,75,60,40,30,50,3,False
-Shelgon,Dragon,420,205,215,65,95,100,60,50,50,3,False
-Salamence,Dragon,600,345,255,95,135,80,110,80,100,3,False
-SalamenceMega Salamence,Dragon,700,385,315,95,145,130,120,90,120,3,False
-Latias,Dragon,600,300,300,80,80,90,110,130,110,3,True
-LatiasMega Latias,Dragon,700,350,350,80,100,120,140,150,110,3,True
-Latios,Dragon,600,330,270,80,90,80,130,110,110,3,True
-LatiosMega Latios,Dragon,700,400,300,80,130,100,160,120,110,3,True
-Rayquaza,Dragon,680,395,285,105,150,90,150,90,95,3,True
-RayquazaMega Rayquaza,Dragon,780,475,305,105,180,100,180,100,115,3,True
-Gible,Dragon,300,152,148,58,70,45,40,45,42,4,False
-Gabite,Dragon,410,222,188,68,90,65,50,55,82,4,False
-Garchomp,Dragon,600,312,288,108,130,95,80,85,102,4,False
-GarchompMega Garchomp,Dragon,700,382,318,108,170,115,120,95,92,4,False
-Axew,Dragon,320,174,146,46,87,60,30,40,57,5,False
-Fraxure,Dragon,410,224,186,66,117,70,40,50,67,5,False
-Haxorus,Dragon,540,304,236,76,147,90,60,70,97,5,False
-Druddigon,Dragon,485,228,257,77,120,90,60,90,48,5,False
-Reshiram,Dragon,680,360,320,100,120,100,150,120,90,5,True
-Zekrom,Dragon,680,360,320,100,150,120,120,100,90,5,True
-Kyurem,Dragon,660,355,305,125,130,90,130,90,95,5,True
-KyuremBlack Kyurem,Dragon,700,385,315,125,170,100,120,90,95,5,True
-KyuremWhite Kyurem,Dragon,700,385,315,125,120,90,170,100,95,5,True
-Goomy,Dragon,300,145,155,45,50,35,55,75,40,6,False
-Sliggoo,Dragon,452,218,234,68,75,53,83,113,60,6,False
-Goodra,Dragon,600,290,310,90,100,70,110,150,80,6,False
-Zygarde50% Forme,Dragon,600,276,324,108,100,121,81,95,95,6,True
-CharizardMega Charizard X,Dragon,634,360,274,78,130,111,130,85,100,1,False
-AmpharosMega Ampharos,Dragon,610,305,305,90,95,105,165,110,45,2,False
-Kingdra,Dragon,540,275,265,75,95,95,95,95,85,2,False
-SceptileMega Sceptile,Dragon,630,400,230,70,110,75,145,85,145,3,False
-Vibrava,Dragon,340,190,150,50,70,50,50,50,70,3,False
-Flygon,Dragon,520,280,240,80,100,80,80,80,100,3,False
-Dialga,Dragon,680,360,320,100,120,120,150,100,90,4,True
-Palkia,Dragon,680,370,310,90,120,100,150,120,100,4,True
-GiratinaAltered Forme,Dragon,680,290,390,150,100,120,100,120,90,4,True
-GiratinaOrigin Forme,Dragon,680,330,350,150,120,100,120,100,90,4,True
-Deino,Dragon,300,148,152,52,65,50,45,50,38,5,False
-Zweilous,Dragon,420,208,212,72,85,70,65,70,58,5,False
-Hydreigon,Dragon,600,328,272,92,105,90,125,90,98,5,False
-Dragalge,Dragon,494,216,278,65,75,90,97,123,44,6,False
-Tyrunt,Dragon,362,182,180,58,89,77,45,45,48,6,False
-Tyrantrum,Dragon,521,261,260,82,121,119,69,59,71,6,False
-Noibat,Dragon,245,130,115,40,30,35,45,40,55,6,False
-Noivern,Dragon,535,290,245,85,70,80,97,80,123,6,False
+,Name,Type,Total,Total Attack,Total Defense,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+0,Dratini,Dragon,300,164,136,41,64,45,50,50,50,1,False
+1,Dragonair,Dragon,420,224,196,61,84,65,70,70,70,1,False
+2,Dragonite,Dragon,600,314,286,91,134,95,100,100,80,1,False
+3,Altaria,Dragon,490,220,270,75,70,90,70,105,80,3,False
+4,AltariaMega Altaria,Dragon,590,300,290,75,110,110,110,105,80,3,False
+5,Bagon,Dragon,300,165,135,45,75,60,40,30,50,3,False
+6,Shelgon,Dragon,420,205,215,65,95,100,60,50,50,3,False
+7,Salamence,Dragon,600,345,255,95,135,80,110,80,100,3,False
+8,SalamenceMega Salamence,Dragon,700,385,315,95,145,130,120,90,120,3,False
+9,Latias,Dragon,600,300,300,80,80,90,110,130,110,3,True
+10,LatiasMega Latias,Dragon,700,350,350,80,100,120,140,150,110,3,True
+11,Latios,Dragon,600,330,270,80,90,80,130,110,110,3,True
+12,LatiosMega Latios,Dragon,700,400,300,80,130,100,160,120,110,3,True
+13,Rayquaza,Dragon,680,395,285,105,150,90,150,90,95,3,True
+14,RayquazaMega Rayquaza,Dragon,780,475,305,105,180,100,180,100,115,3,True
+15,Gible,Dragon,300,152,148,58,70,45,40,45,42,4,False
+16,Gabite,Dragon,410,222,188,68,90,65,50,55,82,4,False
+17,Garchomp,Dragon,600,312,288,108,130,95,80,85,102,4,False
+18,GarchompMega Garchomp,Dragon,700,382,318,108,170,115,120,95,92,4,False
+19,Axew,Dragon,320,174,146,46,87,60,30,40,57,5,False
+20,Fraxure,Dragon,410,224,186,66,117,70,40,50,67,5,False
+21,Haxorus,Dragon,540,304,236,76,147,90,60,70,97,5,False
+22,Druddigon,Dragon,485,228,257,77,120,90,60,90,48,5,False
+23,Reshiram,Dragon,680,360,320,100,120,100,150,120,90,5,True
+24,Zekrom,Dragon,680,360,320,100,150,120,120,100,90,5,True
+25,Kyurem,Dragon,660,355,305,125,130,90,130,90,95,5,True
+26,KyuremBlack Kyurem,Dragon,700,385,315,125,170,100,120,90,95,5,True
+27,KyuremWhite Kyurem,Dragon,700,385,315,125,120,90,170,100,95,5,True
+28,Goomy,Dragon,300,145,155,45,50,35,55,75,40,6,False
+29,Sliggoo,Dragon,452,218,234,68,75,53,83,113,60,6,False
+30,Goodra,Dragon,600,290,310,90,100,70,110,150,80,6,False
+31,Zygarde50% Forme,Dragon,600,276,324,108,100,121,81,95,95,6,True
+32,CharizardMega Charizard X,Dragon,634,360,274,78,130,111,130,85,100,1,False
+33,AmpharosMega Ampharos,Dragon,610,305,305,90,95,105,165,110,45,2,False
+34,Kingdra,Dragon,540,275,265,75,95,95,95,95,85,2,False
+35,SceptileMega Sceptile,Dragon,630,400,230,70,110,75,145,85,145,3,False
+36,Vibrava,Dragon,340,190,150,50,70,50,50,50,70,3,False
+37,Flygon,Dragon,520,280,240,80,100,80,80,80,100,3,False
+38,Dialga,Dragon,680,360,320,100,120,120,150,100,90,4,True
+39,Palkia,Dragon,680,370,310,90,120,100,150,120,100,4,True
+40,GiratinaAltered Forme,Dragon,680,290,390,150,100,120,100,120,90,4,True
+41,GiratinaOrigin Forme,Dragon,680,330,350,150,120,100,120,100,90,4,True
+42,Deino,Dragon,300,148,152,52,65,50,45,50,38,5,False
+43,Zweilous,Dragon,420,208,212,72,85,70,65,70,58,5,False
+44,Hydreigon,Dragon,600,328,272,92,105,90,125,90,98,5,False
+45,Dragalge,Dragon,494,216,278,65,75,90,97,123,44,6,False
+46,Tyrunt,Dragon,362,182,180,58,89,77,45,45,48,6,False
+47,Tyrantrum,Dragon,521,261,260,82,121,119,69,59,71,6,False
+48,Noibat,Dragon,245,130,115,40,30,35,45,40,55,6,False
+49,Noivern,Dragon,535,290,245,85,70,80,97,80,123,6,False

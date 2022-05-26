@@ -1,68 +1,68 @@
-Name,Type,Total,Total Attack,Total Defense,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
-Sandshrew,Ground,300,135,165,50,75,85,20,30,40,1,False
-Sandslash,Ground,450,210,240,75,100,110,45,55,65,1,False
-Diglett,Ground,265,185,80,10,55,25,35,45,95,1,False
-Dugtrio,Ground,405,250,155,35,80,50,50,70,120,1,False
-Cubone,Ground,320,125,195,50,50,95,40,50,35,1,False
-Marowak,Ground,425,175,250,60,80,110,50,80,45,1,False
-Rhyhorn,Ground,345,140,205,80,85,95,30,30,25,1,False
-Rhydon,Ground,485,215,270,105,130,120,45,45,40,1,False
-Gligar,Ground,430,195,235,65,75,105,35,65,85,2,False
-Phanpy,Ground,330,140,190,90,60,60,40,40,40,2,False
-Donphan,Ground,500,230,270,90,120,120,60,60,50,2,False
-Trapinch,Ground,290,155,135,45,100,45,45,45,10,3,False
-Vibrava,Ground,340,190,150,50,70,50,50,50,70,3,False
-Flygon,Ground,520,280,240,80,100,80,80,80,100,3,False
-Baltoy,Ground,300,135,165,40,40,55,40,70,55,3,False
-Claydol,Ground,500,215,285,60,70,105,70,120,75,3,False
-Groudon,Ground,670,340,330,100,150,140,100,90,90,3,True
-GroudonPrimal Groudon,Ground,770,420,350,100,180,160,150,90,90,3,True
-Hippopotas,Ground,330,142,188,68,72,78,38,42,32,4,False
-Hippowdon,Ground,525,227,298,108,112,118,68,72,47,4,False
-Rhyperior,Ground,535,235,300,115,140,130,55,55,40,4,False
-Gliscor,Ground,510,235,275,75,95,125,45,75,95,4,False
-Drilbur,Ground,328,183,145,60,85,40,30,45,68,5,False
-Excadrill,Ground,508,273,235,110,135,60,50,65,88,5,False
-Sandile,Ground,292,172,120,50,72,35,35,35,65,5,False
-Krokorok,Ground,351,201,150,60,82,45,45,45,74,5,False
-Krookodile,Ground,519,274,245,95,117,80,65,70,92,5,False
-Stunfisk,Ground,471,179,292,109,66,84,81,99,32,5,False
-Golett,Ground,303,144,159,59,74,50,35,50,35,5,False
-Golurk,Ground,483,234,249,89,124,80,55,80,55,5,False
-LandorusIncarnate Forme,Ground,600,341,259,89,125,90,115,80,101,5,True
-LandorusTherian Forme,Ground,600,341,259,89,145,90,105,80,91,5,True
-Nidoqueen,Ground,505,243,262,90,92,87,75,85,76,1,False
-Nidoking,Ground,505,272,233,81,102,77,85,75,85,1,False
-Geodude,Ground,300,130,170,40,80,100,30,30,20,1,False
-Graveler,Ground,390,175,215,55,95,115,45,45,35,1,False
-Golem,Ground,495,220,275,80,120,130,55,65,45,1,False
-Onix,Ground,385,145,240,35,45,160,30,45,70,1,False
-Wooper,Ground,210,85,125,55,45,45,25,25,15,2,False
-Quagsire,Ground,430,185,245,95,85,85,65,65,35,2,False
-Steelix,Ground,510,170,340,75,85,200,55,65,30,2,False
-SteelixMega Steelix,Ground,610,210,400,75,125,230,55,95,30,2,False
-Swinub,Ground,250,130,120,50,50,40,30,30,50,2,False
-Piloswine,Ground,450,210,240,100,100,80,60,60,50,2,False
-Larvitar,Ground,300,150,150,50,64,50,45,50,41,2,False
-Pupitar,Ground,410,200,210,70,84,70,65,70,51,2,False
-Marshtomp,Ground,405,195,210,70,85,70,60,70,50,3,False
-Swampert,Ground,535,255,280,100,110,90,85,90,60,3,False
-SwampertMega Swampert,Ground,635,315,320,100,150,110,95,110,70,3,False
-Nincada,Ground,266,115,151,31,45,90,30,30,40,3,False
-Numel,Ground,305,160,145,60,60,40,65,45,35,3,False
-Camerupt,Ground,460,245,215,70,100,70,105,75,40,3,False
-CameruptMega Camerupt,Ground,560,285,275,70,120,100,145,105,20,3,False
-Barboach,Ground,288,154,134,50,48,43,46,41,60,3,False
-Whiscash,Ground,468,214,254,110,78,73,76,71,60,3,False
-Torterra,Ground,525,240,285,95,109,105,75,85,56,4,False
-WormadamSandy Cloak,Ground,424,174,250,60,79,105,59,85,36,4,False
-Gastrodon,Ground,475,214,261,111,83,68,92,82,39,4,False
-Gible,Ground,300,152,148,58,70,45,40,45,42,4,False
-Gabite,Ground,410,222,188,68,90,65,50,55,82,4,False
-Garchomp,Ground,600,312,288,108,130,95,80,85,102,4,False
-GarchompMega Garchomp,Ground,700,382,318,108,170,115,120,95,92,4,False
-Mamoswine,Ground,530,280,250,110,130,80,70,60,80,4,False
-Palpitoad,Ground,384,199,185,75,65,55,65,55,69,5,False
-Seismitoad,Ground,509,254,255,105,95,75,85,75,74,5,False
-Diggersby,Ground,423,184,239,85,56,77,50,77,78,6,False
-Zygarde50% Forme,Ground,600,276,324,108,100,121,81,95,95,6,True
+,Name,Type,Total,Total Attack,Total Defense,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+0,Sandshrew,Ground,300,135,165,50,75,85,20,30,40,1,False
+1,Sandslash,Ground,450,210,240,75,100,110,45,55,65,1,False
+2,Diglett,Ground,265,185,80,10,55,25,35,45,95,1,False
+3,Dugtrio,Ground,405,250,155,35,80,50,50,70,120,1,False
+4,Cubone,Ground,320,125,195,50,50,95,40,50,35,1,False
+5,Marowak,Ground,425,175,250,60,80,110,50,80,45,1,False
+6,Rhyhorn,Ground,345,140,205,80,85,95,30,30,25,1,False
+7,Rhydon,Ground,485,215,270,105,130,120,45,45,40,1,False
+8,Gligar,Ground,430,195,235,65,75,105,35,65,85,2,False
+9,Phanpy,Ground,330,140,190,90,60,60,40,40,40,2,False
+10,Donphan,Ground,500,230,270,90,120,120,60,60,50,2,False
+11,Trapinch,Ground,290,155,135,45,100,45,45,45,10,3,False
+12,Vibrava,Ground,340,190,150,50,70,50,50,50,70,3,False
+13,Flygon,Ground,520,280,240,80,100,80,80,80,100,3,False
+14,Baltoy,Ground,300,135,165,40,40,55,40,70,55,3,False
+15,Claydol,Ground,500,215,285,60,70,105,70,120,75,3,False
+16,Groudon,Ground,670,340,330,100,150,140,100,90,90,3,True
+17,GroudonPrimal Groudon,Ground,770,420,350,100,180,160,150,90,90,3,True
+18,Hippopotas,Ground,330,142,188,68,72,78,38,42,32,4,False
+19,Hippowdon,Ground,525,227,298,108,112,118,68,72,47,4,False
+20,Rhyperior,Ground,535,235,300,115,140,130,55,55,40,4,False
+21,Gliscor,Ground,510,235,275,75,95,125,45,75,95,4,False
+22,Drilbur,Ground,328,183,145,60,85,40,30,45,68,5,False
+23,Excadrill,Ground,508,273,235,110,135,60,50,65,88,5,False
+24,Sandile,Ground,292,172,120,50,72,35,35,35,65,5,False
+25,Krokorok,Ground,351,201,150,60,82,45,45,45,74,5,False
+26,Krookodile,Ground,519,274,245,95,117,80,65,70,92,5,False
+27,Stunfisk,Ground,471,179,292,109,66,84,81,99,32,5,False
+28,Golett,Ground,303,144,159,59,74,50,35,50,35,5,False
+29,Golurk,Ground,483,234,249,89,124,80,55,80,55,5,False
+30,LandorusIncarnate Forme,Ground,600,341,259,89,125,90,115,80,101,5,True
+31,LandorusTherian Forme,Ground,600,341,259,89,145,90,105,80,91,5,True
+32,Nidoqueen,Ground,505,243,262,90,92,87,75,85,76,1,False
+33,Nidoking,Ground,505,272,233,81,102,77,85,75,85,1,False
+34,Geodude,Ground,300,130,170,40,80,100,30,30,20,1,False
+35,Graveler,Ground,390,175,215,55,95,115,45,45,35,1,False
+36,Golem,Ground,495,220,275,80,120,130,55,65,45,1,False
+37,Onix,Ground,385,145,240,35,45,160,30,45,70,1,False
+38,Wooper,Ground,210,85,125,55,45,45,25,25,15,2,False
+39,Quagsire,Ground,430,185,245,95,85,85,65,65,35,2,False
+40,Steelix,Ground,510,170,340,75,85,200,55,65,30,2,False
+41,SteelixMega Steelix,Ground,610,210,400,75,125,230,55,95,30,2,False
+42,Swinub,Ground,250,130,120,50,50,40,30,30,50,2,False
+43,Piloswine,Ground,450,210,240,100,100,80,60,60,50,2,False
+44,Larvitar,Ground,300,150,150,50,64,50,45,50,41,2,False
+45,Pupitar,Ground,410,200,210,70,84,70,65,70,51,2,False
+46,Marshtomp,Ground,405,195,210,70,85,70,60,70,50,3,False
+47,Swampert,Ground,535,255,280,100,110,90,85,90,60,3,False
+48,SwampertMega Swampert,Ground,635,315,320,100,150,110,95,110,70,3,False
+49,Nincada,Ground,266,115,151,31,45,90,30,30,40,3,False
+50,Numel,Ground,305,160,145,60,60,40,65,45,35,3,False
+51,Camerupt,Ground,460,245,215,70,100,70,105,75,40,3,False
+52,CameruptMega Camerupt,Ground,560,285,275,70,120,100,145,105,20,3,False
+53,Barboach,Ground,288,154,134,50,48,43,46,41,60,3,False
+54,Whiscash,Ground,468,214,254,110,78,73,76,71,60,3,False
+55,Torterra,Ground,525,240,285,95,109,105,75,85,56,4,False
+56,WormadamSandy Cloak,Ground,424,174,250,60,79,105,59,85,36,4,False
+57,Gastrodon,Ground,475,214,261,111,83,68,92,82,39,4,False
+58,Gible,Ground,300,152,148,58,70,45,40,45,42,4,False
+59,Gabite,Ground,410,222,188,68,90,65,50,55,82,4,False
+60,Garchomp,Ground,600,312,288,108,130,95,80,85,102,4,False
+61,GarchompMega Garchomp,Ground,700,382,318,108,170,115,120,95,92,4,False
+62,Mamoswine,Ground,530,280,250,110,130,80,70,60,80,4,False
+63,Palpitoad,Ground,384,199,185,75,65,55,65,55,69,5,False
+64,Seismitoad,Ground,509,254,255,105,95,75,85,75,74,5,False
+65,Diggersby,Ground,423,184,239,85,56,77,50,77,78,6,False
+66,Zygarde50% Forme,Ground,600,276,324,108,100,121,81,95,95,6,True

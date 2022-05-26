@@ -1,65 +1,65 @@
-Name,Type,Total,Total Attack,Total Defense,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
-Charmander,Fire,309,177,132,39,52,43,60,50,65,1,False
-Charmeleon,Fire,405,224,181,58,64,58,80,65,80,1,False
-Charizard,Fire,534,293,241,78,84,78,109,85,100,1,False
-CharizardMega Charizard X,Fire,634,360,274,78,130,111,130,85,100,1,False
-CharizardMega Charizard Y,Fire,634,363,271,78,104,78,159,115,100,1,False
-Vulpix,Fire,299,156,143,38,41,40,50,65,65,1,False
-Ninetales,Fire,505,257,248,73,76,75,81,100,100,1,False
-Growlithe,Fire,350,200,150,55,70,45,70,50,60,1,False
-Arcanine,Fire,555,305,250,90,110,80,100,80,95,1,False
-Ponyta,Fire,410,240,170,50,85,55,65,65,90,1,False
-Rapidash,Fire,500,285,215,65,100,70,80,80,105,1,False
-Magmar,Fire,495,288,207,65,95,57,100,85,93,1,False
-Flareon,Fire,525,290,235,65,130,60,95,110,65,1,False
-Moltres,Fire,580,315,265,90,100,90,125,85,90,1,True
-Cyndaquil,Fire,309,177,132,39,52,43,60,50,65,2,False
-Quilava,Fire,405,224,181,58,64,58,80,65,80,2,False
-Typhlosion,Fire,534,293,241,78,84,78,109,85,100,2,False
-Slugma,Fire,250,130,120,40,40,40,70,40,20,2,False
-Magcargo,Fire,410,160,250,50,50,120,80,80,30,2,False
-Magby,Fire,365,228,137,45,75,37,70,55,83,2,False
-Entei,Fire,580,305,275,115,115,85,90,75,100,2,True
-Ho-oh,Fire,680,330,350,106,130,90,110,154,90,2,True
-Torchic,Fire,310,175,135,45,60,40,70,50,45,3,False
-Combusken,Fire,405,225,180,60,85,60,85,60,55,3,False
-Blaziken,Fire,530,310,220,80,120,70,110,70,80,3,False
-BlazikenMega Blaziken,Fire,630,390,240,80,160,80,130,80,100,3,False
-Numel,Fire,305,160,145,60,60,40,65,45,35,3,False
-Camerupt,Fire,460,245,215,70,100,70,105,75,40,3,False
-CameruptMega Camerupt,Fire,560,285,275,70,120,100,145,105,20,3,False
-Torkoal,Fire,470,190,280,70,85,140,85,70,20,3,False
-Chimchar,Fire,309,177,132,44,58,44,58,44,61,4,False
-Monferno,Fire,405,237,168,64,78,52,78,52,81,4,False
-Infernape,Fire,534,316,218,76,104,71,104,71,108,4,False
-Magmortar,Fire,540,303,237,75,95,67,125,95,83,4,False
-Heatran,Fire,600,297,303,91,90,106,130,106,77,4,True
-Tepig,Fire,308,153,155,65,63,45,45,45,45,5,False
-Pignite,Fire,418,218,200,90,93,55,70,55,55,5,False
-Emboar,Fire,528,288,240,110,123,65,100,65,65,5,False
-Pansear,Fire,316,170,146,50,53,48,53,48,64,5,False
-Simisear,Fire,498,297,201,75,98,63,98,63,101,5,False
-Darumaka,Fire,315,155,160,70,90,45,15,45,50,5,False
-DarmanitanStandard Mode,Fire,480,265,215,105,140,55,30,55,95,5,False
-DarmanitanZen Mode,Fire,540,225,315,105,30,105,140,105,55,5,False
-Heatmor,Fire,484,267,217,85,97,66,105,66,65,5,False
-Fennekin,Fire,307,167,140,40,45,40,62,60,60,6,False
-Braixen,Fire,409,222,187,59,59,58,90,70,73,6,False
-Delphox,Fire,534,287,247,75,69,72,114,100,104,6,False
-Fletchinder,Fire,382,213,169,62,73,55,56,52,84,6,False
-Talonflame,Fire,499,281,218,78,81,71,74,69,126,6,False
-Litleo,Fire,369,195,174,62,50,58,73,54,72,6,False
-Pyroar,Fire,507,283,224,86,68,72,109,66,106,6,False
-Volcanion,Fire,600,310,290,80,110,120,130,90,70,6,True
-Houndour,Fire,330,205,125,45,60,30,80,50,65,2,False
-Houndoom,Fire,500,295,205,75,90,50,110,80,95,2,False
-HoundoomMega Houndoom,Fire,600,345,255,75,90,90,140,90,115,2,False
-GroudonPrimal Groudon,Fire,770,420,350,100,180,160,150,90,90,3,True
-RotomHeat Rotom,Fire,520,256,264,50,65,107,105,107,86,4,False
-Victini,Fire,600,300,300,100,100,100,100,100,100,5,True
-Litwick,Fire,275,115,160,50,30,55,65,55,20,5,False
-Lampent,Fire,370,190,180,60,40,60,95,60,55,5,False
-Chandelure,Fire,520,280,240,60,55,90,145,90,80,5,False
-Larvesta,Fire,360,195,165,55,85,55,50,55,60,5,False
-Volcarona,Fire,550,295,255,85,60,65,135,105,100,5,False
-Reshiram,Fire,680,360,320,100,120,100,150,120,90,5,True
+,Name,Type,Total,Total Attack,Total Defense,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+0,Charmander,Fire,309,177,132,39,52,43,60,50,65,1,False
+1,Charmeleon,Fire,405,224,181,58,64,58,80,65,80,1,False
+2,Charizard,Fire,534,293,241,78,84,78,109,85,100,1,False
+3,CharizardMega Charizard X,Fire,634,360,274,78,130,111,130,85,100,1,False
+4,CharizardMega Charizard Y,Fire,634,363,271,78,104,78,159,115,100,1,False
+5,Vulpix,Fire,299,156,143,38,41,40,50,65,65,1,False
+6,Ninetales,Fire,505,257,248,73,76,75,81,100,100,1,False
+7,Growlithe,Fire,350,200,150,55,70,45,70,50,60,1,False
+8,Arcanine,Fire,555,305,250,90,110,80,100,80,95,1,False
+9,Ponyta,Fire,410,240,170,50,85,55,65,65,90,1,False
+10,Rapidash,Fire,500,285,215,65,100,70,80,80,105,1,False
+11,Magmar,Fire,495,288,207,65,95,57,100,85,93,1,False
+12,Flareon,Fire,525,290,235,65,130,60,95,110,65,1,False
+13,Moltres,Fire,580,315,265,90,100,90,125,85,90,1,True
+14,Cyndaquil,Fire,309,177,132,39,52,43,60,50,65,2,False
+15,Quilava,Fire,405,224,181,58,64,58,80,65,80,2,False
+16,Typhlosion,Fire,534,293,241,78,84,78,109,85,100,2,False
+17,Slugma,Fire,250,130,120,40,40,40,70,40,20,2,False
+18,Magcargo,Fire,410,160,250,50,50,120,80,80,30,2,False
+19,Magby,Fire,365,228,137,45,75,37,70,55,83,2,False
+20,Entei,Fire,580,305,275,115,115,85,90,75,100,2,True
+21,Ho-oh,Fire,680,330,350,106,130,90,110,154,90,2,True
+22,Torchic,Fire,310,175,135,45,60,40,70,50,45,3,False
+23,Combusken,Fire,405,225,180,60,85,60,85,60,55,3,False
+24,Blaziken,Fire,530,310,220,80,120,70,110,70,80,3,False
+25,BlazikenMega Blaziken,Fire,630,390,240,80,160,80,130,80,100,3,False
+26,Numel,Fire,305,160,145,60,60,40,65,45,35,3,False
+27,Camerupt,Fire,460,245,215,70,100,70,105,75,40,3,False
+28,CameruptMega Camerupt,Fire,560,285,275,70,120,100,145,105,20,3,False
+29,Torkoal,Fire,470,190,280,70,85,140,85,70,20,3,False
+30,Chimchar,Fire,309,177,132,44,58,44,58,44,61,4,False
+31,Monferno,Fire,405,237,168,64,78,52,78,52,81,4,False
+32,Infernape,Fire,534,316,218,76,104,71,104,71,108,4,False
+33,Magmortar,Fire,540,303,237,75,95,67,125,95,83,4,False
+34,Heatran,Fire,600,297,303,91,90,106,130,106,77,4,True
+35,Tepig,Fire,308,153,155,65,63,45,45,45,45,5,False
+36,Pignite,Fire,418,218,200,90,93,55,70,55,55,5,False
+37,Emboar,Fire,528,288,240,110,123,65,100,65,65,5,False
+38,Pansear,Fire,316,170,146,50,53,48,53,48,64,5,False
+39,Simisear,Fire,498,297,201,75,98,63,98,63,101,5,False
+40,Darumaka,Fire,315,155,160,70,90,45,15,45,50,5,False
+41,DarmanitanStandard Mode,Fire,480,265,215,105,140,55,30,55,95,5,False
+42,DarmanitanZen Mode,Fire,540,225,315,105,30,105,140,105,55,5,False
+43,Heatmor,Fire,484,267,217,85,97,66,105,66,65,5,False
+44,Fennekin,Fire,307,167,140,40,45,40,62,60,60,6,False
+45,Braixen,Fire,409,222,187,59,59,58,90,70,73,6,False
+46,Delphox,Fire,534,287,247,75,69,72,114,100,104,6,False
+47,Fletchinder,Fire,382,213,169,62,73,55,56,52,84,6,False
+48,Talonflame,Fire,499,281,218,78,81,71,74,69,126,6,False
+49,Litleo,Fire,369,195,174,62,50,58,73,54,72,6,False
+50,Pyroar,Fire,507,283,224,86,68,72,109,66,106,6,False
+51,Volcanion,Fire,600,310,290,80,110,120,130,90,70,6,True
+52,Houndour,Fire,330,205,125,45,60,30,80,50,65,2,False
+53,Houndoom,Fire,500,295,205,75,90,50,110,80,95,2,False
+54,HoundoomMega Houndoom,Fire,600,345,255,75,90,90,140,90,115,2,False
+55,GroudonPrimal Groudon,Fire,770,420,350,100,180,160,150,90,90,3,True
+56,RotomHeat Rotom,Fire,520,256,264,50,65,107,105,107,86,4,False
+57,Victini,Fire,600,300,300,100,100,100,100,100,100,5,True
+58,Litwick,Fire,275,115,160,50,30,55,65,55,20,5,False
+59,Lampent,Fire,370,190,180,60,40,60,95,60,55,5,False
+60,Chandelure,Fire,520,280,240,60,55,90,145,90,80,5,False
+61,Larvesta,Fire,360,195,165,55,85,55,50,55,60,5,False
+62,Volcarona,Fire,550,295,255,85,60,65,135,105,100,5,False
+63,Reshiram,Fire,680,360,320,100,120,100,150,120,90,5,True

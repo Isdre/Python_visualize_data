@@ -1,54 +1,54 @@
-Name,Type,Total,Total Attack,Total Defense,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
-Mankey,Fighting,305,185,120,40,80,35,35,45,70,1,False
-Primeape,Fighting,455,260,195,65,105,60,60,70,95,1,False
-Machop,Fighting,305,150,155,70,80,50,35,35,35,1,False
-Machoke,Fighting,405,195,210,80,100,70,50,60,45,1,False
-Machamp,Fighting,505,250,255,90,130,80,65,85,55,1,False
-Hitmonlee,Fighting,455,242,213,50,120,53,35,110,87,1,False
-Hitmonchan,Fighting,455,216,239,50,105,79,35,110,76,1,False
-Tyrogue,Fighting,210,105,105,35,35,35,35,35,35,2,False
-Hitmontop,Fighting,455,200,255,50,95,95,35,110,70,2,False
-Makuhita,Fighting,237,105,132,72,60,30,20,30,25,3,False
-Hariyama,Fighting,474,210,264,144,120,60,40,60,50,3,False
-Meditite,Fighting,280,140,140,30,40,55,40,55,60,3,False
-Medicham,Fighting,410,200,210,60,60,75,60,75,80,3,False
-MedichamMega Medicham,Fighting,510,280,230,60,100,85,80,85,100,3,False
-Riolu,Fighting,285,165,120,40,70,40,35,40,60,4,False
-Lucario,Fighting,525,315,210,70,110,70,115,70,90,4,False
-LucarioMega Lucario,Fighting,625,397,228,70,145,88,140,70,112,4,False
-Timburr,Fighting,305,140,165,75,80,55,25,35,35,5,False
-Gurdurr,Fighting,405,185,220,85,105,85,40,50,40,5,False
-Conkeldurr,Fighting,505,240,265,105,140,95,55,65,45,5,False
-Throh,Fighting,465,175,290,120,100,85,30,85,45,5,False
-Sawk,Fighting,465,240,225,75,125,75,30,75,85,5,False
-Mienfoo,Fighting,350,205,145,45,85,50,55,50,65,5,False
-Mienshao,Fighting,510,325,185,65,125,60,95,60,105,5,False
-Pancham,Fighting,348,171,177,67,82,62,46,48,43,6,False
-Pangoro,Fighting,495,251,244,95,124,78,69,71,58,6,False
-Hawlucha,Fighting,500,284,216,78,92,75,74,63,118,6,False
-Poliwrath,Fighting,510,235,275,90,95,95,70,90,70,1,False
-MewtwoMega Mewtwo X,Fighting,780,474,306,106,190,100,154,100,130,1,True
-Heracross,Fighting,500,250,250,80,125,75,40,95,85,2,False
-HeracrossMega Heracross,Fighting,600,300,300,80,185,115,40,105,75,2,False
-Combusken,Fighting,405,225,180,60,85,60,85,60,55,3,False
-Blaziken,Fighting,530,310,220,80,120,70,110,70,80,3,False
-BlazikenMega Blaziken,Fighting,630,390,240,80,160,80,130,80,100,3,False
-Breloom,Fighting,460,260,200,60,130,80,60,60,70,3,False
-Monferno,Fighting,405,237,168,64,78,52,78,52,81,4,False
-Infernape,Fighting,534,316,218,76,104,71,104,71,108,4,False
-LopunnyMega Lopunny,Fighting,580,325,255,65,136,94,54,96,135,4,False
-Croagunk,Fighting,300,172,128,48,61,40,61,40,50,4,False
-Toxicroak,Fighting,490,277,213,83,106,65,86,65,85,4,False
-Gallade,Fighting,518,270,248,68,125,65,65,115,80,4,False
-GalladeMega Gallade,Fighting,618,340,278,68,165,95,65,115,110,4,False
-Pignite,Fighting,418,218,200,90,93,55,70,55,55,5,False
-Emboar,Fighting,528,288,240,110,123,65,100,65,65,5,False
-Scraggy,Fighting,348,158,190,50,75,70,35,70,48,5,False
-Scrafty,Fighting,488,193,295,65,90,115,45,115,58,5,False
-Cobalion,Fighting,580,288,292,91,90,129,90,72,108,5,True
-Terrakion,Fighting,580,309,271,91,129,90,72,90,108,5,True
-Virizion,Fighting,580,288,292,91,90,72,90,129,108,5,True
-KeldeoOrdinary Forme,Fighting,580,309,271,91,72,90,129,90,108,5,False
-KeldeoResolute Forme,Fighting,580,309,271,91,72,90,129,90,108,5,False
-MeloettaPirouette Forme,Fighting,600,333,267,100,128,90,77,77,128,5,False
-Chesnaught,Fighting,530,245,285,88,107,122,74,75,64,6,False
+,Name,Type,Total,Total Attack,Total Defense,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+0,Mankey,Fighting,305,185,120,40,80,35,35,45,70,1,False
+1,Primeape,Fighting,455,260,195,65,105,60,60,70,95,1,False
+2,Machop,Fighting,305,150,155,70,80,50,35,35,35,1,False
+3,Machoke,Fighting,405,195,210,80,100,70,50,60,45,1,False
+4,Machamp,Fighting,505,250,255,90,130,80,65,85,55,1,False
+5,Hitmonlee,Fighting,455,242,213,50,120,53,35,110,87,1,False
+6,Hitmonchan,Fighting,455,216,239,50,105,79,35,110,76,1,False
+7,Tyrogue,Fighting,210,105,105,35,35,35,35,35,35,2,False
+8,Hitmontop,Fighting,455,200,255,50,95,95,35,110,70,2,False
+9,Makuhita,Fighting,237,105,132,72,60,30,20,30,25,3,False
+10,Hariyama,Fighting,474,210,264,144,120,60,40,60,50,3,False
+11,Meditite,Fighting,280,140,140,30,40,55,40,55,60,3,False
+12,Medicham,Fighting,410,200,210,60,60,75,60,75,80,3,False
+13,MedichamMega Medicham,Fighting,510,280,230,60,100,85,80,85,100,3,False
+14,Riolu,Fighting,285,165,120,40,70,40,35,40,60,4,False
+15,Lucario,Fighting,525,315,210,70,110,70,115,70,90,4,False
+16,LucarioMega Lucario,Fighting,625,397,228,70,145,88,140,70,112,4,False
+17,Timburr,Fighting,305,140,165,75,80,55,25,35,35,5,False
+18,Gurdurr,Fighting,405,185,220,85,105,85,40,50,40,5,False
+19,Conkeldurr,Fighting,505,240,265,105,140,95,55,65,45,5,False
+20,Throh,Fighting,465,175,290,120,100,85,30,85,45,5,False
+21,Sawk,Fighting,465,240,225,75,125,75,30,75,85,5,False
+22,Mienfoo,Fighting,350,205,145,45,85,50,55,50,65,5,False
+23,Mienshao,Fighting,510,325,185,65,125,60,95,60,105,5,False
+24,Pancham,Fighting,348,171,177,67,82,62,46,48,43,6,False
+25,Pangoro,Fighting,495,251,244,95,124,78,69,71,58,6,False
+26,Hawlucha,Fighting,500,284,216,78,92,75,74,63,118,6,False
+27,Poliwrath,Fighting,510,235,275,90,95,95,70,90,70,1,False
+28,MewtwoMega Mewtwo X,Fighting,780,474,306,106,190,100,154,100,130,1,True
+29,Heracross,Fighting,500,250,250,80,125,75,40,95,85,2,False
+30,HeracrossMega Heracross,Fighting,600,300,300,80,185,115,40,105,75,2,False
+31,Combusken,Fighting,405,225,180,60,85,60,85,60,55,3,False
+32,Blaziken,Fighting,530,310,220,80,120,70,110,70,80,3,False
+33,BlazikenMega Blaziken,Fighting,630,390,240,80,160,80,130,80,100,3,False
+34,Breloom,Fighting,460,260,200,60,130,80,60,60,70,3,False
+35,Monferno,Fighting,405,237,168,64,78,52,78,52,81,4,False
+36,Infernape,Fighting,534,316,218,76,104,71,104,71,108,4,False
+37,LopunnyMega Lopunny,Fighting,580,325,255,65,136,94,54,96,135,4,False
+38,Croagunk,Fighting,300,172,128,48,61,40,61,40,50,4,False
+39,Toxicroak,Fighting,490,277,213,83,106,65,86,65,85,4,False
+40,Gallade,Fighting,518,270,248,68,125,65,65,115,80,4,False
+41,GalladeMega Gallade,Fighting,618,340,278,68,165,95,65,115,110,4,False
+42,Pignite,Fighting,418,218,200,90,93,55,70,55,55,5,False
+43,Emboar,Fighting,528,288,240,110,123,65,100,65,65,5,False
+44,Scraggy,Fighting,348,158,190,50,75,70,35,70,48,5,False
+45,Scrafty,Fighting,488,193,295,65,90,115,45,115,58,5,False
+46,Cobalion,Fighting,580,288,292,91,90,129,90,72,108,5,True
+47,Terrakion,Fighting,580,309,271,91,129,90,72,90,108,5,True
+48,Virizion,Fighting,580,288,292,91,90,72,90,129,108,5,True
+49,KeldeoOrdinary Forme,Fighting,580,309,271,91,72,90,129,90,108,5,False
+50,KeldeoResolute Forme,Fighting,580,309,271,91,72,90,129,90,108,5,False
+51,MeloettaPirouette Forme,Fighting,600,333,267,100,128,90,77,77,128,5,False
+52,Chesnaught,Fighting,530,245,285,88,107,122,74,75,64,6,False
